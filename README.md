@@ -1,1 +1,16 @@
-# ecommerce-data-cleaning
+# 📊 Project Title: E-commerce Sales Data Cleaning and Analysis
+
+*Project Overview:*
+This project demonstrates my ability to take a messy, raw e-commerce dataset and transform it into a clean, structured format ready for business decision-making. 
+
+*The Problem:*
+The original dataset contained missing price values, duplicated transactions, and incorrectly formatted dates which made accurate analysis impossible.
+
+*The Solution (Steps Taken):*
+1. *Data Exploration:* Identified missing values and analyzed the structure using Pandas.
+2. *Handling Duplicates:* Detected and removed redundant records to ensure data integrity.
+3. *Imputation:* Standardized missing numeric values using statistical means.
+4. *DateTime Standardization:* Converted string date columns into appropriate format.
+5. *Visualization:* Built a clean Seaborn bar chart visualizing the Top 5 Best-Selling Products.
+
+*Tools Used:* Python, Pandas, NumPy,
