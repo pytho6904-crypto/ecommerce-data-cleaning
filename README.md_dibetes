@@ -1,0 +1,17 @@
+Diabetes Data Analysis and Predictive Modeling
+
+### Project Overview:
+This project demonstrates my ability to take a medical dataset, perform exploratory data analysis (EDA), handle missing clinical values, and build a machine learning model capable of predicting diabetes risk with high accuracy to support healthcare decision-making.
+
+### The Problem:
+The original dataset contained missing biometric measurements, hidden zero-values in crucial indicators (like Insulin and Glucose), and unscaled features, which made accurate predictive analysis impossible.
+
+### The Solution (Steps Taken):
+1. *Data Exploration:* Identified missing values and analyzed the statistical distribution of patient metrics using Pandas.
+2. *Handling Missing Values:* Detected non-logical zeros in indicators like Glucose/Insulin and imputed them using statistical means.
+3. *Feature Scaling:* Applied standard scaling to normalize numeric feature ranges for better model convergence.
+4. *Machine Learning Modeling:* Trained a Random Forest Classifier to distinguish between diabetic and non-diabetic outcomes.
+5. *Visualization:* Built clean Seaborn heatmaps to visualize feature correlations and clinical impact factors.
+
+### Tools Used:
+Python, Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, Streamlit.
