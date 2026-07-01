@@ -1,0 +1,21 @@
+Patient_ID,Name,Age,Gender,Admission_Date,Diagnosis,Status
+1001,Ahmed Mohamed,49,Female,2026-01-01,Routine Checkup,Stable
+1002,Sara Ali,42,Male,2026-01-02,Arthritis,Under Observation
+1003,Khaled Mahmoud,40,Female,2026-01-03,Arthritis,Stable
+1004,Mona Hassan,49,Female,2026-01-04,Routine Checkup,Under Observation
+1005,Yasser Ibrahim,69,Male,2026-01-05,Diabetes,Under Observation
+1006,Nora Omar,60,Female,2026-01-06,Diabetes,Under Observation
+1007,Tarek Samir,23,Female,2026-01-07,Diabetes,Under Observation
+1008,Layla Youssef,79,Female,2026-01-08,Routine Checkup,Under Observation
+1009,Omar Kamal,47,Male,2026-01-09,Influenza,Under Observation
+1010,Heba Fouad,56,Female,2026-01-10,Hypertension,Under Observation
+1011,Ali Abdullah,66,Male,2026-01-11,Diabetes,Under Observation
+1012,Reem Saeed,75,Female,2026-01-12,Routine Checkup,Under Observation
+1013,Mustafa Hussein,73,Female,2026-01-13,Routine Checkup,Discharged
+1014,Fatima Khaled,45,Male,2026-01-14,Routine Checkup,Under Observation
+1015,Hassan Idris,41,Female,2026-01-15,Hypertension,Discharged
+1016,Mariam Mahmoud,67,Female,2026-01-16,Diabetes,Discharged
+1017,Youssef Ahmed,59,Male,2026-01-17,Hypertension,Stable
+1018,Zeinab Ali,69,Male,2026-01-18,Diabetes,Under Observation
+1019,Ibrahim Salem,64,Female,2026-01-19,Routine Checkup,Discharged
+1020,Asmaa Mohamed,18,Male,2026-01-20,Diabetes,Discharged
